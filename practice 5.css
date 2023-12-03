@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Mooli&family=Overpass:wght@100&family=Poppins:wght@300&display=swap');
+*
+{
+	font-family: 'Kalam', cursive;
+font-family: 'Mooli', sans-serif;
+font-family: 'Overpass', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+h1
+{
+	text-align: center;
+}
+.bg-red
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+    background: #3a4452;	
+	
+	
+}
+.button{
+	padding: 17px;
+	margin: 0 3px;
+	border-radius: 50%;
+	border: 2px solid black;
+	cursor: pointer;
+	width: 60px;
+	box-shadow:-8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0,0,0,0.2) ;
+	
+}
+.row
+{
+	margin: 8px 0;
+	
+}
+.btn{
+	padding: 22px;
+	border-radius: 10px;
+	width: 120px;
+	background-color: orange;
+	color: white;
+}
+
+.btnn{
+	background-color: orange;
+	color: white;
+}
+#input{
+	text-align: center;
+	flex: 1;
+	font-size: 20px;
+    border-radius: 10px;
+	box-shadow: none;
+	border: none;
+
+}
+.roww {
+	display: flex;
+	justify-content: flex-end;
+	margin: 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
